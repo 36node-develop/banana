@@ -28,6 +28,7 @@ const ReduxUi = Loadable({
 });
 /* template-example-end */
 
+// 测试pr
 const App = () => (
   <Router history={history}>
     <Switch>
